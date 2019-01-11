@@ -1,0 +1,25 @@
+{
+    "stage0" : [
+        "move()",
+        "move()",
+        "move()",
+        "move()"
+    ],
+    "stage1" : [
+        "move()",
+        "newLine()",
+        "blue",
+        "red",
+        "white"
+    ],
+    "stage2" : [
+        "move()",
+        "newLine()",
+        "for()",
+        "+1",
+        "-1",
+        "white",
+        "red",
+        "blue"
+    ]
+}
